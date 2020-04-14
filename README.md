@@ -1,0 +1,4 @@
+# BCI-research
+The basis for a proof of concept regarding past thought induction using TMS/TDCS using previously collected EEG data in some motor actions.
+
+As a final project for Authentication and Security models, we explore the current authentication methods used in Brain-Computer Interfaces (BCIs). The emphasis is on the possiblity of Brainjacking, or hacking into the brain. We hypothesize that through the use of transcranial magnetic or direct current stimulation (TMS/TDCS), certain electrode sites may be more susceptible to the induction of past thought. The bases for this claim lie in the research unfolding with TMS/TCDS affecting motor action and neuroplasticity, as well as research conducted with regard to accessing and altering memory with lasers. If induction of past thought becomes possible with modern BCI technology, security practices regarding the technology will have to be reformed to take into account the new threat.
