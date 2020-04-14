@@ -1,0 +1,35 @@
+Dataset created by developers of BCI2000 instrumentation system and contributed to PhysioNet
+
+See <link>https://archive.physionet.org/pn4/eegmmidb/</link> for more information
+
+Dataset contains 1500+ EEG recordings lasting 1-2 minutes from 109 volunteers.
+R01 and R02 are baseline readings.
+R03, R07, and R11 including opening/closing right or left fists
+R04, R08, and R12 including imagining the opening/closing of right or left fists
+R05, R09, and R13 including opening/closing both hands or both feet
+R06, R010, and R14 including imagining the opening/closing of both hands or both feet
+
+Electrodes were positioned according to the Internationl 10/10 system (see montage.pdf)
+
+Citations:
+@article{schalk2004bci2000,
+  title={BCI2000: a general-purpose brain-computer interface (BCI) system},
+  author={Schalk, Gerwin and McFarland, Dennis J and Hinterberger, Thilo and Birbaumer, Niels and Wolpaw, Jonathan R},
+  journal={IEEE Transactions on biomedical engineering},
+  volume={51},
+  number={6},
+  pages={1034--1043},
+  year={2004},
+  publisher={IEEE}
+}
+
+@article{goldberger2000physiobank,
+  title={PhysioBank, PhysioToolkit, and PhysioNet: components of a new research resource for complex physiologic signals},
+  author={Goldberger, Ary L and Amaral, Luis AN and Glass, Leon and Hausdorff, Jeffrey M and Ivanov, Plamen Ch and Mark, Roger G and Mietus, Joseph E and Moody, George B and Peng, Chung-Kang and Stanley, H Eugene},
+  journal={circulation},
+  volume={101},
+  number={23},
+  pages={e215--e220},
+  year={2000},
+  publisher={Am Heart Assoc}
+}
